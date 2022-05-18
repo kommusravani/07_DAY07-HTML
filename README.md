@@ -6,7 +6,7 @@ thee are different types of form controls that you can use to collect data from 
 <FORM> ELEMENTS <BR>
 <INPUT> <BR>
 <BUTTON> <BR>
-<TEXT AREA>  <BR>
+<TEXT AREA> <BR>
 <OPTION> <BR>
  <FEILDSET> <BR>
  <LABEL> <BR>  
